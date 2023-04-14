@@ -35,4 +35,9 @@ void LinearSearch()
 {
 	char ch;
 	int comparisons;
+
+	do
+	{
+		cout << "\nEnter the element you want to search: ";
+	}
 }
