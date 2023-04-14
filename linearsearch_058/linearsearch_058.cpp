@@ -39,5 +39,10 @@ void LinearSearch()
 	do
 	{
 		cout << "\nEnter the element you want to search: ";
+		int item;
+		cin >> item;
+
+		comparisons = 0;
+		for (i = 0; i < n; i++)
 	}
 }
